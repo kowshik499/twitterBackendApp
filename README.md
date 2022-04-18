@@ -525,5 +525,6 @@ Created a Tweet
 
 <br/>
 
+**Used Node.js, Express, SQLite Technologies to implement this application**
 
-**Used VSCode for implementation**
+**Used VSCode for code implementation**
